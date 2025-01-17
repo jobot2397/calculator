@@ -1,4 +1,4 @@
-module calculator
+module dogs-api
 
 go 1.21
 
